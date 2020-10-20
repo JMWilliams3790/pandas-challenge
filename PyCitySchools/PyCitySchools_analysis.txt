@@ -1,0 +1,10 @@
+pandas-challenge analysis
+
+One of the most obvious observations throughout the data is that large school suffer in every category. Medium schools have significantly higher scores across the board,
+small schools have the highest on average.
+
+To me, the strangest observation is that there is a strong correlation between lower per student budgets and high performance. Not only do we see this in the spending from schools,
+all of the top 5 schools by "both passing %" have lower "per student budget" than the bottom 5 schools.
+
+Finally, in every single example reading scores are always the higher than math. Students in every single school visible in presentation have performed better than in math,
+usually much better.
